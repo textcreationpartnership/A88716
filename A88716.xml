@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last answer February 22. of the London and Scots Commissioners to His Maiesties Commissioners at Uxbridge; with His Maiesties said commissioners last reply, being a summary of the whole treaty.</title>
+            <author>England and Wales. Commissioners of Both Kingdoms.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88716</idno><idno type="EEBO-CITATION">99870924</idno>
+  <idno type="VID">159448</idno>
+  <idno type="EEBO-PROQUEST">2240945968</idno>
+  
+            <idno type="STC">Wing L474</idno>
+            <idno type="STC">Thomason E270_25</idno>
+            <idno type="STC">ESTC R212286</idno>
+            <idno type="PROQUEST">99870924</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870924e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E270[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last answer February 22. of the London and Scots Commissioners to His Maiesties Commissioners at Uxbridge; with His Maiesties said commissioners last reply, being a summary of the whole treaty.</title>
+                  <author>England and Wales. Commissioners of Both Kingdoms.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity.,</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "feb. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159448:1"/>
+            <p>
+               <hi>THE</hi> LAST ANSWER <hi>February</hi> 22. <hi>of the LONDON</hi> and <hi>SCOTS</hi> COMMISSIONERS, TO HIS MAIESTIES <hi>Commissioners at Ʋxbridge;</hi> WITH HIS MAIESTIES said Commissioners last Reply, being a Summary of the whole TREATY.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, Printer to <hi>the Ʋniversity.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159448:2"/>
+            <pb n="3" facs="tcp:159448:2"/>
+            <head>The last Answer of the <hi>London</hi> and <hi>Scots</hi> Commissioners to His MAJESTIES Commissioners at <hi>Ʋxbridge.</hi> 22. February 1644.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Lordships Papers of the <hi>1, 3,</hi> and <hi>10,</hi> of <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> whether We had any Instructions concerning His Majesties <hi>Propositions</hi> and power to Treat for a Cessation, as also your Papers of the <hi>14,</hi> and <hi>20,</hi> of <hi>February,</hi> concerning His Majesties Letter for an addition of Time to this <hi>Treaty,</hi> with your Lord<g ref="char:EOLhyphen"/>ships desire there vpon, have been by Vs sent up to both Houses of Par<g ref="char:EOLhyphen"/>liament from time to time as We received them, together with our Answer given to them, and in our Answers we have from time to time declared to your Lordships, That when the Houses shall be satis<g ref="char:EOLhyphen"/>fied in the good progresse of the <hi>Treaty,</hi> upon their <hi>Propositions</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Religion, Militia,</hi> and <hi>Ireland,</hi> they will give an addition of time for the <hi>Treaty:</hi> And we doe conceive that if your Lordships An<g ref="char:EOLhyphen"/>swers to our demands concerning <hi>Religion,</hi> the <hi>Militia,</hi> and <hi>Ireland,</hi> had bin such as to have given satisfaction in the good progresse of this <hi>Treaty</hi> mutually consented for <hi>20.</hi> dayes, upon the said <hi>Propositions,</hi> We should have before this bin enabled with power to continue the <hi>Treaty,</hi> as well upon His Majesties as the rest of the <hi>Propositions:</hi> But your Lordships having not given full and satisfactory answers concerning <hi>Religion,</hi> the <hi>Militia</hi> and <hi>Ireland,</hi> you cannot, for the rea<g ref="char:EOLhyphen"/>sons above mentioned, expect an addition of time, neither have we re<g ref="char:EOLhyphen"/>ceived any Instructions to continue this <hi>Treaty</hi> longer then the <hi>20</hi> dayes, of which this is the last: And as for your Lordships safe Con<g ref="char:EOLhyphen"/>duct, we conceive the three Sundayes last past being not accompted any dayes of the <hi>Treaty,</hi> so this next Sunday is not to be esteemed one of the two dayes allowed after the <hi>Treaty</hi> in your Lordships safe Conduct, but your Lordships are to have two dayes besides this next Lords-day.</p>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:159448:3"/>
+            <head>The Reply of His <hi>MAJESTIES</hi> Commissioners to the said Answer of the <hi>London</hi> and <hi>Scots</hi> Commissioners.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot expresse the great sadnesse of our hearts, that all our earnest endeavours to give your Lordships satisfaction in all particulars of this Treaty, have produced no better effects to<g ref="char:EOLhyphen"/>wards a blessed Peace, which His Majesty, and we who are trusted by him, doe so heartily pray for, and that so many and great offers made by us to your Lord<g ref="char:EOLhyphen"/>ships in the particulars we have treated upon, should not be thought a good progresse on our part in the said Treaty, as we find by your Lordships last paper (to our great griefe) they are not; and therefore that this must be the last day of the Treaty, we desire your Lordships to consider that we being intrusted by His Majesty to Treat with your Lordships for a safe and well grounded Peace, have upon the matter of your Lordships Propositions, consented to so many particulars and alterations of very great importance, and that your Lordships, who were to Treat with us, have not a<g ref="char:EOLhyphen"/>bated one tittle of the most severe and rigorous of your Propositi<g ref="char:EOLhyphen"/>ons, saving what you were pleased the last night to propose in the point of time concerning the Militia, which though it seems to be limited to seaven yeares, in truth leaves it as unlimited as it was before in your Propositions, for at the end of seaven years it must not be exercised otherwise then shall be setled by His Majesty and the two Houses of Parliament: so that all the legall power now in His Majesty is taken away, and not restored after the seaven years expired. Nor have your Lordships offered to us any prospect to<g ref="char:EOLhyphen"/>wards Peace, other then by submitting totally to those Propositions the which if we should doe, we should consent to such alterati<g ref="char:EOLhyphen"/>ons as by constructions and consequences may dissolve the whole frame of the present Government, both Ecclesiasticall and Civill, in this Kingdome. And though the particulars proposed by your Lordships have by debate appeared not only evidently unreasona<g ref="char:EOLhyphen"/>ble, but literally considered, to comprehend things, to be extended to powers not intended by your selves, yet your Lordships have not been pleased either to restraine or interpret any particular in any other manner, then is set forth in the said Propositions.</p>
+            <p>In the matter of Religion we have offered all such alterations as we conceive may give satisfaction to any objections that have bin or can be made against that Government, and have given your
+<pb n="3" facs="tcp:159448:3"/> Lordships reasons not only why we cannot consent to your Lord<g ref="char:EOLhyphen"/>ships Propositions, but that even those Propositions, if consented to, could not be in order to a Reformation, or to the procuring the publique Peace. And we must desire your Lordships to remem<g ref="char:EOLhyphen"/>ber, that though you doe not only in your Covenant (which you require may be taken by His Majesty &amp; injoyned to be taken by all His Subjects) undertake the Reformation in poynt of Govern<g ref="char:EOLhyphen"/>ment, but even in poynt of Doctrine too, thereby laying an impu<g ref="char:EOLhyphen"/>tation upon the Religion it selfe, so long professed in this Kingdom with the generall approbation of all reformed Churches; yet your Lordships have not given us the least argument, nor so much as in<g ref="char:EOLhyphen"/>timated in your debate, the least Prejudice to the Doctrine of the Church of England, against which we presume you cannot make any colourable objection, nor have you given us the view in parti<g ref="char:EOLhyphen"/>cular of the Government you desire should be submitted to, in the place of that you propose to be abolished; &amp; therefore we propose to your Lordships, if the alterations proposed by us do not give your Lordships satisfaction, that so great an alteration as the totall aboli<g ref="char:EOLhyphen"/>tion of a Government established by Law, may for the importance of it, and any reformation in Doctrine, for the scandall of it, be sus<g ref="char:EOLhyphen"/>pended, till, after the disbanding of all Armies, His Majesty may be present with the two Houses of Parliament, and calling a Nationall Synod, may receive such advice both from the one and the other, as in a matter of so high concernment is necessary; And we are most confident that His Majesty will then follow the advice which shall be given him. And as any Reformation thus regularly and calmely made, must needs prove for the singular benefit and Ho<g ref="char:EOLhyphen"/>nour of the Kingdome, so we must appeale to your Lordships, whe<g ref="char:EOLhyphen"/>ther the contrary, that is an alteration even to things though in themselves good, can, by the principles of Christian Religion, be enforced upon the King or Kingdom?</p>
+            <p>In the businesse of the <hi>Militia,</hi> though your Lordships doe not deny that the Iealousies and apprehensions of danger are mutuall, and that the chiefe end of depositing the <hi>Militia</hi> in the hands of certaine Persons, is for security against those Iealousies and possi<g ref="char:EOLhyphen"/>ble dangers, yet your Lordships insist, That all those Persons to be entrusted shall be nominated by the two Houses of Parliament in <hi>England,</hi> and the Estates of the Parliament in <hi>Scotland,</hi> and that the time for that great generall, and unheard of Trust, shall be in such manner, that though it seem to be limited to seven yeares, yet in truth after those seven yeares, it shall not be otherwise exercised
+<pb n="4" facs="tcp:159448:4"/> then His Majesty and the two Houses of Parliament shall agree, and His Majesty may thereby be totally, and for ever divested of the power of the Sword, without which He can neither defend Him<g ref="char:EOLhyphen"/>selfe against Forreigne Invasions, or Domestique Insurrections, or execute His Kingly Office in the behalfe of His Subjects, to whom He is Sworne to give Protection: And to both these your Lordships adde the introducing a Neighbour Nation, governed by distinct and different Lawes (though united under one Soveraigne) to a great share in the Government of this Kingdome. Instead of consenting to these Changes we have offered and proposed to your Lordships, That the Persons to be Trusted with the <hi>Militia</hi> of the Kingdom, may be nominated between us; or if that were refused, That an equall number shall be named by you, and the other number by His Majesty, and that halfe the Forts and places of strength within the Kingdom shall be in the custody of those whom you think fit to be trusted therewith, and the other halfe in such hands as his Ma<g ref="char:EOLhyphen"/>jesty please to commit the same to. And all persons, as well those nominated by your Lordships, as by His Majesty, to take an oath for the due discharge of the said trust, which being considered as the security is mutuall, so neither part can be supposed to violate the a<g ref="char:EOLhyphen"/>greement, without very evident inconvenience and danger to that part who shall so violate it, the whole Kingdome being likely and indeed obliged to look upon whosoever shall in the least degree vi<g ref="char:EOLhyphen"/>olate this agreement, as the Fathers of all the miseries which the Kingdome shall thereby suffer. And as it is most reasonable, that for this security His Majesty should part with so much of his own power as may make him even unable to break the agreement, which should be now made by him and on his part, so it is most necessary, that all apprehension &amp; danger of such breach being over, that soveraign power of the <hi>Militia</hi> should revert into the proper channell, and be, as it hath alwaies been, in His Maiesties proper &amp; peculiar charge And therefore we have proposed that the time limited for that trust, should be for three years, which by the bles<g ref="char:EOLhyphen"/>sing of God will produce a perfect understanding between His Majesty and all His people; and if there should be any thing else necessary to be done in this argument, either for power or time, that the same be considered after the settlement of Peace in Parlia<g ref="char:EOLhyphen"/>ment, but whatever is now or hereafter shall be thought necessary to be done, we desire may be so setled that this Kingdom may de<g ref="char:EOLhyphen"/>pend upon it selfe and not be subject to the Lawes or advice of <hi>Scotland,</hi> as we think fit that <hi>Scotland</hi> should not receive rules or
+<pb n="5" facs="tcp:159448:4"/> advice from this, having offered the like for <hi>Scotland</hi> as for <hi>England.</hi>
+            </p>
+            <p>In the businesse of <hi>Ireland</hi> your Lordships propose not only, that His Majesty disclaime and make voyd the Cestation made by Royall Authority, and at the desires of the Lords Iustices &amp; Councell of that Kingdome, and for the preservation of the remainder of His poore Protestant Subjects there, who were in evident danger of destructi<g ref="char:EOLhyphen"/>on, both by Famine and the Sword, but also to put the whole mana<g ref="char:EOLhyphen"/>gery of that Warre and disposall of the Forces within that Kingdom, and consequently the Government of that Kingdome, into the hands of the <hi>Scots</hi> Generall, to be managed by the advice of a joynt Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes, wherein each should have a Negative Voice; In Answer to which, we have acquainted your Lordships with the iust grounds of His Majesties proceedings in the busines of <hi>Ireland,</hi> which we are confident being weighed without prejudice, may satisfie all men of His Majesties Piety &amp; Iustice therein, And we are very ready &amp; desirous to joyne with your Lordships in any course which may probably preserve and restore that miserable Kingdom.</p>
+            <p>Having put your Lordships in mind of these particulars, as they have a generall reference to the publique good of the Kingdomes, we beseech your Lordships to consider, that we have this great Trust reposed in us by His Majesty, and to remember how farre these Pro<g ref="char:EOLhyphen"/>positions trench upon His peculiar Kingly Rights, without any, or any considerable recompence or compensation.</p>
+            <p>In the businesse of <hi>Religion,</hi> your Lordships propose the taking a<g ref="char:EOLhyphen"/>way His whole Ecclesiasticall Iurisdiction, His Donations, and Tem<g ref="char:EOLhyphen"/>poralties of Bishopricks, His first Fruits, and Tenths of Bishops, Deanes and Chapters, instead whereof your Lordships doe not offer to constitute the least dependance of the Clergy upon His Majesty; and for that so considerable a part of His Revenue you propose one<g ref="char:EOLhyphen"/>ly the Bishops Lands to be setled on His Majesty, (reserving a pow<g ref="char:EOLhyphen"/>er to dispose even those Lands as you shall thinke fit) whereas all the Lands both of Bishops, Deanes and Chapters (if those Corporations must be dissolved) doe undoubtedly belong to His Majesty in His owne Right.</p>
+            <p>In the businesse of the <hi>Militia,</hi> as it is proposed, His Majesty is so totally divested of the Regall Power of the Sword, that He shall be no more able, either to assist any of His Allies with ayd, though men were willing to engage themselves voluntarily in that Service, or to defend His owne Dominions from Rebellion or Invasion, and con<g ref="char:EOLhyphen"/>sequently the whole power of Peace and Warre (the acknowled<g ref="char:EOLhyphen"/>ged and undoubted Right of the Crowne) is taken from Him.</p>
+            <pb n="6" facs="tcp:159448:5"/>
+            <p>In the businesse of <hi>Ireland,</hi> the power of nominating His Lievte<g ref="char:EOLhyphen"/>nant, or Deputy, or other Officers there, of managing, directing, or in the least manner of medling in that Warre, or of making a Peace, is proposed to be taken from Him; and to adde to all these attempts upon His Kingly Rights, it is proposed to bereave Him of the power of a Father, Education and Marriage of His owne Children, and of a Master in the rewarding His owne Servants; And therefore we re<g ref="char:EOLhyphen"/>ferre it to your Lordships, whether it be possible for us, with a good Conscience and discharge of the Trust reposed in us, to Consent to the Propositions made to us by your Lordships? Lastly, we must ob<g ref="char:EOLhyphen"/>serve to your Lordships, That after a Warre of neare foure yeares, for which the Defence of the Protestant Religion, the Liberty and Property of the Subject, and the Priviledges of Parliament were made the cause and grounds, in a Treaty of Twenty dayes, nor in<g ref="char:EOLhyphen"/>deed in the whole Propositions upon which the Treaty should be, there hath been nothing offered to be Treated concerning the breach of any Law, or of the Liberty or Property of the Subject, or Privi<g ref="char:EOLhyphen"/>ledge of Parliament: but onely Propositions for the altering a Go<g ref="char:EOLhyphen"/>vernment Established by Law, and for the making new Lawes by which almost all the old are, or may be cancelled; and there hath been nothing insisted on of our part which was not Law, or denyed by us, that you have demanded, as due by Law.</p>
+            <p>All these things being considered, and being much afflicted that our great hope and expectation of a Peace, for the present frustrated by your Lordships Declaration, that no more time will be allowed for this Treaty, we are earnest Suitors to your Lordships, that you will interpose with the two Houses, to whom we beleeve, you have transmitted the Answers delivered by us to your Lordships upon <hi>Religion,</hi> the <hi>Militia</hi> and <hi>Ireland,</hi> That this Treaty, though for the present discontinued may be revived, and the whole matter of their Propositions, and those sent to them by His Majesty, which have not yet been Treated on, may be considered, and that depending that Treaty, to the end we may not Treat in Bloud, there may be a Cessa<g ref="char:EOLhyphen"/>tion of Armes, and that the poor People of this Kingdome, now ex<g ref="char:EOLhyphen"/>posed to Plundrings, and Spoyles, and other direfull effects of Warre, may have some earnest of a blessed Peace. And because this Treaty is now expiring, if your Lordships cannot give a present Resolution, we desire when you have represented this to the two Houses, His Majesty may speedily receive their Answer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
